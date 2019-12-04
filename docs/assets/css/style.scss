@@ -2,8 +2,20 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* MAIN ELEMENT STYLES */
+
 h2 {
 color: #F0F;
 text-transform: lowercase;
 letter-spacing: 0.1em;
 }
+
+/* SEMANTIC ELEMENT STYLES */
+
+header h2 {
+  color: #FFF;
+}
+
+/* IDS & CLASSES */
+
