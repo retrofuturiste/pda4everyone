@@ -1,4 +1,4 @@
-# personal digital archiving for \*everyone\*
+# personal digital archiving for \*everyone*
 
 *the future of digital heritage depends on the record creators of today. 
 
